@@ -1,0 +1,29 @@
+body{
+    width: 100%;
+    height: 100vh;
+ 
+    background: rosybrown;
+    
+}
+
+#circle{
+    width: 350px;
+    height: 350px;
+    background:crimson;
+    border-radius: 200px;   
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    border: 2px solid burlywood;
+}
+
+button{
+    width: 50px;
+    height: 30px;
+    border: 0;
+    text-align: center;
+  
+    
+}
